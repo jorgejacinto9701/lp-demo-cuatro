@@ -6,6 +6,7 @@
 </head>
 <body>
 <h1>Sistema Educativo Ciberte</h1>
+<h2>Jorge Jacinto</h2>
 
 </body>
 </html>
